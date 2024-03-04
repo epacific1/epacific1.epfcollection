@@ -1,2 +1,3 @@
-# epfirstnamespace.epfirst
-My first collection for Ansible
+# Ansible Collection - epfnamespace.epfcollection
+
+Documentation for the collection.
